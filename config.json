@@ -10,7 +10,7 @@
             "rolimon": {
                 "roli_verification_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJwbGF5ZXJfZGF0YSI6eyJuYW1lIjoiZ2xhc3N3aW5kb3dxNjI3IiwiaWQiOjg4OTMyNDgzMjh9LCJpYXQiOjE3NTY2MjkyNDAsImV4cCI6MTc2NDQwNTMwMH0.j7VVFkWwJI2JfeHZs-tJ3DxO5iEgRh98Eyg5A8d8AKc",
                 "ads": {
-                    "sleep_time": 900,
+                    "sleep_time": 1440,
                     "offers": []
                 },
                 "limiteds_value_updater_sleep_time": 60,
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
